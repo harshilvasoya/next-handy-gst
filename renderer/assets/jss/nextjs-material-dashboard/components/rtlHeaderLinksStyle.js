@@ -4,7 +4,7 @@ import {
   whiteColor,
 } from "../../../../assets/jss/nextjs-material-dashboard.js";
 
-import dropdownStyle from "assets/jss/nextjs-material-dashboard/dropdownStyle.js";
+import dropdownStyle from "../../../../assets/jss/nextjs-material-dashboard/dropdownStyle.js";
 
 const headerLinksStyle = (theme) => ({
   ...dropdownStyle(theme),
